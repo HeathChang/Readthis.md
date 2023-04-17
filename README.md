@@ -3,10 +3,10 @@
 - Quick Template that I can use
 
 ## Issues + Solution
-###1. 
-###2.
+### 1. 
+### 2.
 
 
 ## Quick Template
-###1. 
-###2.
+### 1. 
+### 2.
