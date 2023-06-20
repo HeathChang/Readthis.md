@@ -1,12 +1,9 @@
-# I-should-have-done-that
-- Development Issues that I should have done before messing it up + With Solution.
-- Quick Template that I can use
-
-## Issues + Solution
-### 1. 
-### 2.
+# Good Articles to read
 
 
-## Quick Template
-### 1. 
-### 2.
+## SWIFT
+
+#### 1. [Choosing Between Structures and Classes]<br/> https://developer.apple.com/documentation/swift/choosing-between-structures-and-classes
+
+
+## JS
